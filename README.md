@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/laurengus17/laurengus17.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## LIVE DEMO LINK: [Dimension HTML5 UP](https://html5up.net/dimension)
 
 ### Markdown
 
