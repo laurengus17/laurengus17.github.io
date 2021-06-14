@@ -44,7 +44,7 @@ Syntax highlighted code block
 - A link to the live project
 - A link to the project repo
 
-#Contact Section
+# Contact Section
 - An email address that you use for people to contact you.
 - Links to AngelList, LinkedIn, and GitHub
 - Your City/State
