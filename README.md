@@ -6,14 +6,31 @@ You can use the [editor on GitHub](https://github.com/laurengus17/laurengus17.gi
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```
+## Navigation:
+The About Section
+The Skills Section
+The Projects Section
+The Contact Section including phone number
+Your Resume
+Your LinkedIn, AngelList, and GitHub
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## About Section:
+A professional headshot
+Your name and title (Beyonce Knowles: Software Engineer / Queen)
+A short introduction to you as a software engineer
+A call to action (link to your resume or email address)
 
-### Jekyll Themes
+## Skills Section:
+skills listed on resume
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/laurengus17/laurengus17.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Projects Sections:
+An enticing visual (image or gif)
+A brief description (pulled from your resume)
+Technical bullets (pulled from your resume)
+A link to the live project
+A link to the project repo
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contact Section
+An email address that you use for people to contact you.
+Links to AngelList, LinkedIn, and GitHub
+Your City/State
